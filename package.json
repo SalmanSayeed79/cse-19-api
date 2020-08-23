@@ -1,0 +1,16 @@
+{
+  "name": "cse-19-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for CSE-19 of BUET",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Salman Sayeed | 1905079",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
